@@ -1,5 +1,7 @@
 # Day23Activity
 
+link to url: https://tvertican.github.io/Day23Activity/
+
 - Create a new repository on Github, clone it to your computer and then add an index.html and a style.css file. 
 - Add the necessary links and script tags for bootstrap. 
 - Create a bootstrap grid layout that has 3 columns. Remember that columns go in rows and rows go in container.
